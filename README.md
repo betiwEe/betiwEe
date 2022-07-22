@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @betiwEe
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in JS
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
